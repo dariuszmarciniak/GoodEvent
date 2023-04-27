@@ -2,10 +2,11 @@
 
 ## A mobile application created in Kotlin with serwer created in Spring
 
-### A mobile application that allows you to create accounts and then allows users to view events that can be filtered by location, name or date of the event.'
+### A mobile application that allows you to create accounts and then allows users to view events that can be filtered by location, name or date of the event.
 
 ![register](https://user-images.githubusercontent.com/75750207/234860865-6153a7be-2e4e-435d-90a1-0e11321c4f5b.png)
 ![mainscreen](https://user-images.githubusercontent.com/75750207/234861121-3f40abff-ce94-4852-8e1a-915fe59ab518.png)
+
 ![listevent](https://user-images.githubusercontent.com/75750207/234861306-6534a7ea-cc54-4b63-bc87-9100e8b1e46a.png)
 ![image](https://user-images.githubusercontent.com/75750207/234861356-a3f24924-1fba-489c-8f03-013807da55b5.png)
 
